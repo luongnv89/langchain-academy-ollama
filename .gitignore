@@ -133,6 +133,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+lc-academy-env/
 
 # Spyder project settings
 .spyderproject
@@ -219,4 +220,4 @@ $RECYCLE.BIN/
 *.lnk
 .langgraph_api
 *.db-shm
-*.db-wal
+*.db-walmodule-6/deployment/docker-compose.yml
