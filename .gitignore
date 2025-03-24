@@ -217,3 +217,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.langgraph_api
+*.db-shm
+*.db-wal
