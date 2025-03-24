@@ -220,4 +220,5 @@ $RECYCLE.BIN/
 *.lnk
 .langgraph_api
 *.db-shm
-*.db-walmodule-6/deployment/docker-compose.yml
+*.db-wal
+module-6/deployment/docker-compose.yml
